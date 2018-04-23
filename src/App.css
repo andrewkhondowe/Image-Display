@@ -1,0 +1,58 @@
+.cool{
+  text-align: center;
+  color: blue;
+}
+.App-header {
+  background-color: #222;
+  height: 650px;
+  width: 1300px;
+
+
+}
+.big{
+  text-align: center;
+  color: blue;
+  font-size:20px;
+  font-weight: lighter;
+}
+.resize{
+  width: 65%;
+  height: 65%;
+}
+.slide-arrow {
+ color: black;
+ cursor: pointer;
+ font-size: 4rem;
+ position: absolute;
+ top: 20%;}.slide-arrow.right {
+ right: 1rem;
+}.slide-arrow.left {
+ left: 1rem;
+}
+.carousel h1{
+ margin-left: 40%;
+}.btn-primary {
+ background-color: #23aa4e
+;
+ border-color: #177d37
+;
+}#example {
+ margin: 3rem;
+}.customContainer {
+ border: 1px solid black;
+}
+.slide-arrow {
+	color: $theme-blue;
+	cursor: pointer;
+	font-size: 2rem;
+	position: fixed;
+	top: 50%;
+}
+
+.slide-arrow.right {
+	right: 1rem;
+}
+
+.slide-arrow.left {
+	left: 1rem;
+}
